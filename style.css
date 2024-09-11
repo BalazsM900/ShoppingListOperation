@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+}
+
+div {
+    background-color: palegreen;
+    font-size: 30px;
+    text-shadow: 1px 1px 3px black;
+    text-align: center;
+}
+input[type=text] {
+    width: 300px;
+    text-align: center;
+}
+div.x0 {
+    background-color: yellow;
+    padding: 10px;
+}
+div.x1 {
+    background-color: orangered;
+    padding: 10px;
+}
+div.y1 {
+    color: teal;
+    text-decoration: line-through;
+}
+span {
+    display: inline-block;
+    border-radius: 6px;
+    box-shadow: 1px 1px 3px black;
+    padding: 3px;
+    cursor: pointer;
+    background-color: palegreen;
+}
+span:hover {
+    background-color: red;
+}
